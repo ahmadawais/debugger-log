@@ -22,7 +22,16 @@ npm install debugger-log
 ## Usage
 
 ```js
-const debuggerLog = require('debugger-log');
+const log = require('debugger-log');
+
+// Debugging mode or not.
+const debug = true;
+const name = 'Awais';
+debug && log('NAME', name);
+
+// Logs:
+// ⚠️ NAME
+//    Awais
 ```
 
 <br />

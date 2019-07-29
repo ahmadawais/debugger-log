@@ -17,5 +17,8 @@
 		"debugger-log",
 		"Ahmad Awais",
 		"ahmadawais"
-	]
+	],
+	"dependencies": {
+		"chalk": "^2.4.2"
+	}
 }
