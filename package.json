@@ -1,0 +1,21 @@
+{
+	"name": "debugger-log",
+	"version": "1.0.0",
+	"description": "Fancy log for debugging.",
+	"license": "MIT",
+	"repository": "ahmadawais/debugger-log",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"debugger-log",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}
