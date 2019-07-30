@@ -29,11 +29,31 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
+### RELEASE: [1.3.0](https://github.com/ahmadawais/debugger-log/compare/1.2.0...1.3.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Badge Colors [`57ef9f1`](https://github.com/ahmadawais/debugger-log/commit/57ef9f1e5fb9d7756259d819dde8a1e51f336949) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Spellings [`431f397`](https://github.com/ahmadawais/debugger-log/commit/431f3974dfc836516180c4be0134794dc7c943e0) <br>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
 ### RELEASE: [1.2.0](https://github.com/ahmadawais/debugger-log/compare/1.1.0...1.2.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Badge [`ce4dbc8`](https://github.com/ahmadawais/debugger-log/commit/ce4dbc8dd54f5ca2bc46345ad82e48e9c4cf2f0e) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`2dc8e0a`](https://github.com/ahmadawais/debugger-log/commit/2dc8e0af6856d43698fecb076d16d4c215dfe8b4) <br>
 
 <br />
 
