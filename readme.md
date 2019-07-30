@@ -1,7 +1,7 @@
 # debugger-log
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/debugger-log?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat&style=flat)](https://www.npmjs.com/package/debugger-log) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
-[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
 
 > Fancy log for debugging.
 
